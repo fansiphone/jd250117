@@ -1,7 +1,7 @@
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
-let token= 'error';
+let token= 'tom123tye321';
 let pdomain = 'www.pptv.com';
 //uuid设置
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
