@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let token= 'tom123tye321';
 let pdomain = 'www.pptv.com';
 //uuid设置
-let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+let userID = 'd9a2c270-b07a-4297-830a-5dabacbd9d5c';
 //订阅器设置
 let RproxyIP = 'false';
 let sub = 'alvless.comorg.us.kg';
